@@ -1,0 +1,21 @@
+﻿body {
+    background-image: url("download.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+#form {
+    margin-top: 40px;
+    width: fit-content;
+    height: fit-content;
+    padding: 20px;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    align-self: center;
+}
