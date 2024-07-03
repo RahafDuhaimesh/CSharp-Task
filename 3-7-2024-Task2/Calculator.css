@@ -1,0 +1,28 @@
+﻿body {
+    background-image: url("download (2).jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+#form {
+    margin-top: 40px;
+    width: fit-content;
+    height: fit-content;
+    padding: 50px;
+    font-size: 30px;
+    background-color: grey;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    align-self: center;
+}
+#Label4, #Label5, #Label6, #Label7 {
+    background-color: azure;
+    padding: 10px;
+}
+
